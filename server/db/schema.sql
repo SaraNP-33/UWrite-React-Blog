@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS uwrite_db;
+CREATE DATABASE uwrite_db;
