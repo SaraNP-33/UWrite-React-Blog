@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "profile_pic":"https://via.placeholder.com/150",
+        "email": "johndoe@example.com",
+        "password": "password123"
+    },
+    {
+        "id": 2,
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "profile_pic":"https://via.placeholder.com/150",
+        "email": "janesmith@example.com",
+        "password": "password456"
+    },
+    {
+        "id": 3,
+        "first_name": "Bob",
+        "last_name": "Johnson",
+        "profile_pic":"https://via.placeholder.com/150",
+        "email": "bobjohnson@example.com",
+        "password": "password789"
+    },
+    {
+        "id": 4,
+        "first_name": "Mike",
+        "last_name": "Williams",
+        "profile_pic":"https://via.placeholder.com/150",
+        "email": "mike.williams@test.com",
+        "password": "password123"
+    },
+    {
+        "id": 5,
+        "first_name": "Adrian",
+        "last_name": "Smith",
+        "profile_pic":"https://via.placeholder.com/150",
+        "email": "adrian23@test.com",   
+        "password": "password123"
+    }
+]

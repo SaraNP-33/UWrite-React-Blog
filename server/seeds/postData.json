@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "First Post",
+        "content": "This is my first post!",
+        "user_id": 1
+    },
+    {
+        "id": 2,
+        "title": "Second Post",
+        "content": "This is my second post!",
+        "user_id": 2
+    },
+    {
+        "id": 3,
+        "title": "Third Post",
+        "content": "This is my third post!",
+        "user_id": 1
+    },
+    {
+        "id": 4,
+        "title": "Fourth Post",
+        "content": "This is my fourth post!",
+        "user_id": 2
+    },
+    {
+        "id": 5,
+        "title": "Fifth Post",
+        "content": "This is my fifth post!",
+        "user_id": 4
+    },
+    {
+        "id": 6,
+        "title": "Sixth Post",
+        "content": "This is my sixth post!",
+        "user_id": 3
+    },
+    {
+        "id": 7,
+        "title": "Seventh Post",
+        "content": "This is my seventh post!",
+        "user_id": 3
+    },
+    {
+        "id": 8,
+        "title": "Eighth Post",
+        "content": "This is my eighth post!",
+        "user_id": 2
+    }
+]

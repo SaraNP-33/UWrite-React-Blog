@@ -26,12 +26,6 @@ User.init(
             allowNull: false,
             required: true,
         },
-        username: {
-            type: DataTypes.STRING,
-            allowNull: false,
-            unique: true,
-            required: true,
-        },
         profile_pic: {
             type: DataTypes.STRING,
             allowNull: true,
