@@ -19,12 +19,12 @@ User.init(
         first_name: {
             type: DataTypes.STRING,
             allowNull: false,
-            required: true,
+            
         },
         last_name: {
             type: DataTypes.STRING,
             allowNull: false,
-            required: true,
+            
         },
         profile_pic: {
             type: DataTypes.STRING,
